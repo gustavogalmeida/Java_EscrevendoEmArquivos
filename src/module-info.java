@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gustavopc
+ *
+ */
+module EscritaArquivosJava {
+}
